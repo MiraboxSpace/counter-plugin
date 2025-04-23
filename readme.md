@@ -1,18 +1,5 @@
-`Counter` is a sample plugin demonstrating the [Mirabox Space SDK](https://sdk.key123.vip).
+The warehouse has been integrated into [https://github.com/MiraboxSpace/StreamDock-Plugins/tree/main/Examples](https://github.com/MiraboxSpace/StreamDock-Plugins/tree/main/Examples)
 
-# Description
+Please move in the future [https://github.com/MiraboxSpace/StreamDock-Plugins/tree/main/Examples](https://github.com/MiraboxSpace/StreamDock-Plugins/tree/main/Examples)
 
-The counter plugin is used to display the number of times a button is pressed. Pressing the button will increase the counter.
-
-# Features
-
-* Written in JavaScript
-
-* Cross-platform (macOS, Windows)
-
-* Persistent settings (number of button presses)
-
-<figure style="text-align: center;">
-  <img src="/counter.png" alt="Stream Dock" width="100%" />
-  <figcaption>Counter Example</figcaption>
-</figure>
+After a while, this repository will be deleted
